@@ -2,7 +2,8 @@
 <div align="center">
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This+is+Msughter+Chicha;Your+seasoned+computer+programmer;Nice+to+meet+you+🤝)](https://git.io/typing-svg)
-About Me
+  
+  About Me
 
   | Section | Information |
   | --- | --- |
