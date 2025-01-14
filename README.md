@@ -1,7 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
 <div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=This+is+Msughter+Chicha;Your+seasoned+computer+programmer;Nice+to+meet+you+🤝)](https://git.io/typing-svg)
 About Me
 
   | Section | Information |
